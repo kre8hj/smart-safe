@@ -1,0 +1,2 @@
+# smart-safe
+my safe!
